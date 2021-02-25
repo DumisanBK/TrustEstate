@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445726010803",
+    "project_id": "trustestate-8fc84",
+    "storage_bucket": "trustestate-8fc84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445726010803:android:38e1618812907897f8efc6",
+        "android_client_info": {
+          "package_name": "com.example.trust_estate_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445726010803-cj1bs9t8no3v8p7ap1iot4uogphad4vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-8ZXQwQPbign8lxdtdpjU3l5d1j3HdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445726010803-cj1bs9t8no3v8p7ap1iot4uogphad4vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
